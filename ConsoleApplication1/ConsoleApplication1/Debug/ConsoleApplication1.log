@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(11): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): error C2065: NULL: необъявленный идентификатор
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): error C3861: time: идентификатор не найден
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): error C3861: srand: идентификатор не найден
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C3861: rand: идентификатор не найден
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C2065: cout: необъявленный идентификатор
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): error C2065: endl: необъявленный идентификатор
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): error C3861: system: идентификатор не найден

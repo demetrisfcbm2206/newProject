@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\project1\project1\source.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\asus\source\repos\project1\project1\source.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> C:\Users\ASUS\source\repos\Project1\Debug\Project1.exe
